@@ -25,7 +25,8 @@ export const CONFIG = {
     {name: "Moonbeam", value: 1284},
     {name: "Moonriver", value: 1285},
     {name: "Arbitrum", value: 42161},
-    {name: "Shiden", value: 336}  
+    {name: "Shiden", value: 336},
+    {name: "Mumbai", value: 80001}   
     ],
   // Supported timeframes - just for your reference
   GRAPH_OPTIONS : [
