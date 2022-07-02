@@ -1,10 +1,10 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0x08E5fb2eD8DC366670bE179A263bB989693ad502",
+    "collection_address": "0x2953399124f0cbb46d2cbacd8a89cf0599974963",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
-    "block_chain_id": "80001",
+    "block_chain_id": "137",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
     "title": "Pruebas NFT UBK",
